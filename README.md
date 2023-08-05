@@ -111,8 +111,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak1618&show_icons=true&locale=en&layout=compact" alt="ak1618" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesaur1618&show_icons=true&locale=en&layout=compact" alt="ak1618" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak1618&show_icons=true&locale=en" alt="ak1618" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesaur1618&show_icons=true&locale=en" alt="ak1618" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak1618&" alt="ak1618" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesaur1618&" alt="ak1618" /></p>
