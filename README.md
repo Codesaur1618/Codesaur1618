@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="img.jpg" alt="Abisek Kamthan">
+  <img src="img.jpg" alt="Abisek Kamthan" width="150" height="150">
 </p>
+
 <h1 align="center">Hi, I'm Abisek Kamthan, but you can call me Codesaur! 🦕</h1>
 <p align="center">Roaming the digital era, coding my way through the virtual wilderness.</p>
 <p align="center">Welcome to the futuristic world of Codesaur, where binary is the native language!</p>
