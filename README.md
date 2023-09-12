@@ -6,9 +6,9 @@
 <p align="center">Roaming the digital era, coding my way through the virtual wilderness.</p>
 <p align="center">Welcome to the futuristic world of Codesaur, where binary is the native language!</p>
 
-- 🔭 I’m currently unleashing the power of **QUANTUM ENCRYPTION** to secure our digital future.
+- 🔭 I’m currently unleashing the power of **DATA SCIENCE**,**MACHINE LEARNING** and **AI** to secure our digital future.
 
-- 🌱 I’m enthusiastically learning **NETWORKING** and honing my skills in **HACKING ESSENTIALS**.
+- 🌱 I’m enthusiastically learning **NETWORK AND HACKING** and honing my skills in **QUANTUM ENCRYPTION**.
 
 - 👯 I’m looking to collaborate on **ANY RESEARCH ORIENTED PROJECTS** that push the boundaries of technology.
 
