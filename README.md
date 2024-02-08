@@ -17,14 +17,11 @@
 - ⚡ Fun fact: I might be a coding dinosaur, but I'm definitely no nerd! 🤓
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/jakbuftc" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jakbuftc" target="_blank" rel="noopener noreferrer">
+
+  <a href="https://instagram.com/abisk.init" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/abisek-kamthan" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/abisek-kamthan-846b10243" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/abisekkamthan" target="_blank" rel="noopener noreferrer">
