@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently unleashing the power of **DATA SCIENCE**,**MACHINE LEARNING** and **AI** to secure our digital future.
 
-- 🌱 I’m enthusiastically learning **NETWORK AND HACKING** and honing my skills in **QUANTUM ENCRYPTION**.
+- 🌱 I’m enthusiastically learning **Deep learning** and honing my skills in **Computer vision adn Image processing**.
 
 - 👯 I’m looking to collaborate on **ANY RESEARCH ORIENTED PROJECTS** that push the boundaries of technology.
 
