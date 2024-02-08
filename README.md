@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.jpg" alt="Abisek Kamthan" >
+  <img src="img.png" alt="Abisek Kamthan" >
 </p>
 
 <h1 align="center">Hi, I'm Abisek Kamthan, but you can call me Codesaur! 🦕</h1>
