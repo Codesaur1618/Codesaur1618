@@ -19,8 +19,34 @@
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Codesaur1618&limit=6&theme=jolly&combine_all_yearly_contributions=true)
+
+***
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Codesaur1618&row=2&column=4&theme=tokyonight&margin-w=4)](https://github.com/greeenboi)
 
+***
+
+[![Codesaur's Arena | Stats](https://stats.quine.sh/Codesaur1618/github?theme=dark)](https://quine.sh)
+
+***
+
+[![Codesaur's Arena | Topics](https://stats.quine.sh/Codesaur1618/topics-over-time?theme=dark)](https://quine.sh)
+
+***
+
+[![Codesaur's Arena | Dependencies](https://stats.quine.sh/Codesaur1618/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=greeenboi)
+
+***
+
+[![Codesaur's Arena | Languages Over Time](https://stats.quine.sh/Codesaur1618/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=greeenboi)
+
+***
+
+![Codesaur's Arena stats](https://github-readme-stats.vercel.app/api/wakatime?username=Codesaur1618&theme=jolly)
+
+
+
+***
 <h3 align="left">Connect with me:</h3>
 
   <a href="https://instagram.com/abisk.init" target="_blank" rel="noopener noreferrer">
