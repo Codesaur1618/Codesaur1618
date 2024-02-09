@@ -42,18 +42,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
-***
 
-  Skills
-
-|Domains|Data|
-|----|----|
-|Languages|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">|
-|Tools & Software|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">|
-  
-
-  
-***
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -138,3 +127,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesaur1618&show_icons=true&locale=en" alt="ak1618" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesaur1618&" alt="ak1618" /></p>
+***
+
+## Contact me:
+
+  
+<a href="https://suvan.netlify.app/">My Website</a>
+<a href="https://pdf.ac/1B5JKO">My Resume </a>
+<a href="https://peerlist.io/greeeboi"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
+
+***
+<br/><br/>
+<img src="https://s11.flagcounter.com/count2/R77M/bg_636363/txt_FFFFFF/border_02EBA5/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
