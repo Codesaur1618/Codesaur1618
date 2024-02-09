@@ -15,6 +15,9 @@
 - 📫 Reach out to me at **abisek971@gmail.com** for exciting opportunities and discussions!
 
 - ⚡ Fun fact: I might be a coding dinosaur, but I'm definitely no nerd! 🤓
+
+
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=greeenboi&row=2&column=4&theme=tokyonight&margin-w=4)](https://github.com/greeenboi)
 
 <h3 align="left">Connect with me:</h3>
