@@ -17,8 +17,9 @@
 - ⚡ Fun fact: I might be a coding dinosaur, but I'm definitely no nerd! 🤓
 
 
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=greeenboi&row=2&column=4&theme=tokyonight&margin-w=4)](https://github.com/greeenboi)
+
+![](https://github-contributor-stats.vercel.app/api?username=Codesaur1618&limit=6&theme=jolly&combine_all_yearly_contributions=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Codesaur1618&row=2&column=4&theme=tokyonight&margin-w=4)](https://github.com/greeenboi)
 
 <h3 align="left">Connect with me:</h3>
 
