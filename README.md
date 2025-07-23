@@ -31,17 +31,23 @@
   <i>Welcome to the futuristic world of Codesaur, where binary is the native language!</i>
 </p>
 
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Dino Mascot" />
 </p>
+
+---
 
 ### 🚀 About Me
 
 - 🔭 Currently unleashing the power of **Data Science**, **Machine Learning**, and **AI** to secure our digital future.
 - 🌱 Enthusiastically learning **Deep Learning** and honing my skills in **Computer Vision** and **Image Processing**.
-- 👯 Open to collaborating on **research-oriented projects** pushing the boundaries of technology.
-- 📫 Reach me at **abisek971@gmail.com** for exciting opportunities or discussions!
+- 👯 Looking to collaborate on **research-oriented projects** that push the boundaries of technology.
+- 📫 Reach out to me at **abisek971@gmail.com** for exciting opportunities and discussions!
 - ⚡ Fun fact: I might be a coding dinosaur, but I'm definitely no nerd! 🤓
+
+---
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
@@ -62,6 +68,8 @@
   <img src="https://komarev.com/ghpvc/?username=Codesaur1618&label=Profile%20views&color=00F7FF&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 <h2 align="center">🧬 Data, AI & Coding: My Passion</h2>
 
 <p align="center">
@@ -71,14 +79,18 @@
 - 📊 I thrive on transforming raw data into actionable insights and intelligent systems.
 - 🤖 My projects span from deep learning for computer vision to building robust data pipelines.
 - 🧠 I love experimenting with neural networks, generative AI, and real-world ML applications.
-- 💡 I believe the future belongs to those who can harness the power of data and code to solve problems.
-- 🛠️ Dive into my repositories for hands-on projects in AI, ML, and data science!
+- 💡 I believe the future belongs to those who can harness the power of data and code to solve big problems.
+- 🛠️ Check out my repositories for hands-on projects in AI, ML, and data science!
+
+---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,js,html,css,flask,git,linux,mongodb,mysql,opencv,pytorch,tensorflow&theme=dark" />
 </p>
+
+---
 
 ### 🌐 Connect with Me
 
@@ -89,8 +101,13 @@
   <a href="https://discord.gg/jakbuftc#1141"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=The+future+is+written+in+code..." alt="Futuristic Quote" />
 </p>
 
+---
+
 <!-- For more inspiration, check out: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
