@@ -1,15 +1,35 @@
+<!-- Futuristic, Animated, and Engaging GitHub Profile README for Codesaur1618 -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abisek+Kamthan+%F0%9F%A6%95;Data+Science+%7C+AI+%7C+ML+Enthusiast;Welcome+to+my+digital+playground!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+Codesaur's+Futuristic+Lair!;AI+%7C+ML+%7C+Data+Science+%7C+Visionary;Let's+code+the+future+together+%F0%9F%A6%95" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="img.png" alt="Abisek Kamthan" width="200">
+  <img src="img.png" width="180" alt="Abisek Kamthan" />
 </p>
 
-<h1 align="center">🦕 Codesaur | Abisek Kamthan</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20POWERED-00F7FF?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Futurist-1A1A2E?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Coding%20Dinosaur-%F0%9F%A6%95-00F7FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Snake" />
+</p>
+
+<hr style="border: 1px solid #00F7FF; border-radius: 5px;">
+
+<h2 align="center">🦕 About Me</h2>
 <p align="center">
   <b>Roaming the digital era, coding my way through the virtual wilderness.</b><br>
   <i>Welcome to the futuristic world of Codesaur, where binary is the native language!</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Dino Mascot" />
 </p>
 
 ---
@@ -40,14 +60,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <!-- Add more as needed -->
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,flask,git,linux,mongodb,mysql,opencv,pytorch,tensorflow&theme=dark" />
 </p>
 
 ---
@@ -63,10 +76,11 @@
 
 ---
 
-### 🦖 Fun Fact
-
-> "I might be a coding dinosaur, but I'm definitely no nerd! 🤓"
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=The+future+is+written+in+code..." alt="Futuristic Quote" />
+</p>
 
 ---
 
-Feel free to copy and adapt this structure! Let me know if you want me to update your actual README.md file with these changes or further customize it for you.
+<!-- For more inspiration, check out: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
