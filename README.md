@@ -1,6 +1,6 @@
-<!-- Futuristic SVG Background -->
+<!-- Futuristic SVG Background (reliable, public) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/wave-haikei.svg" width="100%" alt="SVG background" />
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Matrix.svg" width="100%" alt="Neon Matrix Background" />
 </p>
 
 <!-- Futuristic, Animated, and Engaging GitHub Profile README for Codesaur1618 -->
@@ -52,7 +52,7 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codesaur1618&theme=tokyonight&margin-w=4" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Codesaur1618&theme=radical&margin-w=4" alt="Trophy" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codesaur1618&show_icons=true&theme=radical&hide_border=true" alt="Codesaur1618's GitHub stats" height="180"/>
@@ -62,7 +62,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codesaur1618&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Codesaur1618&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Codesaur1618&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Codesaur1618&label=Profile%20views&color=00F7FF&style=flat" alt="Profile Views" />
