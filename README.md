@@ -1,3 +1,8 @@
+<!-- Futuristic SVG Background -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/wave-haikei.svg" width="100%" alt="SVG background" />
+</p>
+
 <!-- Futuristic, Animated, and Engaging GitHub Profile README for Codesaur1618 -->
 
 <p align="center">
@@ -44,16 +49,38 @@
 
 ---
 
-### 🏆 GitHub Stats
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Codesaur1618&theme=tokyonight&margin-w=4" alt="Trophy" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codesaur1618&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codesaur1618&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Codesaur1618&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codesaur1618&show_icons=true&theme=radical&hide_border=true" alt="Codesaur1618's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codesaur1618&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codesaur1618&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Codesaur1618&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Codesaur1618&label=Profile%20views&color=00F7FF&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<h2 align="center">🧬 Data, AI & Coding: My Passion</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="AI Animation"/>
+</p>
+
+- 📊 I thrive on transforming raw data into actionable insights and intelligent systems.
+- 🤖 My projects span from deep learning for computer vision to building robust data pipelines.
+- 🧠 I love experimenting with neural networks, generative AI, and real-world ML applications.
+- 💡 I believe the future belongs to those who can harness the power of data and code to solve big problems.
+- 🛠️ Check out my repositories for hands-on projects in AI, ML, and data science!
 
 ---
 
