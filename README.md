@@ -47,9 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Codesaur1618&show_icons=true&theme=radical&hide_border=true" alt="Codesaur1618's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codesaur1618&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codesaur1618&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Codesaur1618&label=Profile%20views&color=00F7FF&style=flat" alt="Profile Views" />
