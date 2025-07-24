@@ -1,7 +1,3 @@
-<!-- Futuristic SVG Background (reliable, public) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Matrix.svg" width="100%" alt="Neon Matrix Background" />
-</p>
 
 <!-- Futuristic, Animated, and Engaging GitHub Profile README for Codesaur1618 -->
 
