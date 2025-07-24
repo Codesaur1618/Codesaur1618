@@ -27,13 +27,6 @@
   <i>Welcome to the futuristic world of Codesaur, where binary is the native language!</i>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Dino Mascot" />
-</p>
-
----
 
 ### 🚀 About Me
 
@@ -57,9 +50,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codesaur1618&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Codesaur1618&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Codesaur1618&label=Profile%20views&color=00F7FF&style=flat" alt="Profile Views" />
 </p>
